@@ -1,3 +1,3 @@
 # IT_2560
 IT lab course
-welcome presidency
+welcome 6cse5
